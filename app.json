@@ -18,7 +18,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7355006985:AAEY8ijg4CP-8GgcliRGJja87Tby78QT7To"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
@@ -31,15 +31,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29426486"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "d71ad4ec048ab41677a1a439b21ff0c9"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "5976437467"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
